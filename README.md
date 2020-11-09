@@ -29,7 +29,7 @@ To use this software, what the algorithm requires as input are a numpy array. In
 This work was performed under the following financial assistance award 70NANB19H005 from U.S. Department of Commerce, National Institute of Standards and Technology as part of the Center for Hierarchical Materials Design (CHiMaD). Partial support is also acknowledged from DOE awards DE-SC0014330, DE-SC0019358.
 
 ## Related Publications ##
-Z. Yang, S. Papanikolaou, A. Reid, W.-keng Liao, A. Choudhary, C. Campbell and A. Agrawal, “Learning to Predict Crystal Plasticity at the Nanoscale: Deep Residual Networks and Size Effects in Uniaxial Compression Discrete Dislocation Simulations,” Accepted by Scientific Reports
+Yang, Zijiang, Stefanos Papanikolaou, Andrew CE Reid, Wei-keng Liao, Alok N. Choudhary, Carelyn Campbell, and Ankit Agrawal. "Learning to predict crystal plasticity at the nanoscale: Deep Residual Networks and Size Effects in Uniaxial compression Discrete Dislocation Simulations." Scientific Reports 10, no. 1 (2020): 1-14.
 
 ## Contact
 Zijiang Yang <zyz293@ece.northwestern.edu>; Ankit Agrawal <ankitag@ece.northwestern.edu>
